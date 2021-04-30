@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-three-example-image-tracking-gltf-animation/static/css/main.e7a77bd0.chunk.css",
+    "main.js": "/react-three-example-image-tracking-gltf-animation/static/js/main.74429ef5.chunk.js",
+    "main.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/main.74429ef5.chunk.js.map",
+    "runtime-main.js": "/react-three-example-image-tracking-gltf-animation/static/js/runtime-main.7a88b6be.js",
+    "runtime-main.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/runtime-main.7a88b6be.js.map",
+    "static/js/2.3ebfa067.chunk.js": "/react-three-example-image-tracking-gltf-animation/static/js/2.3ebfa067.chunk.js",
+    "static/js/2.3ebfa067.chunk.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/2.3ebfa067.chunk.js.map",
+    "static/js/3.23d44f37.chunk.js": "/react-three-example-image-tracking-gltf-animation/static/js/3.23d44f37.chunk.js",
+    "static/js/3.23d44f37.chunk.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/3.23d44f37.chunk.js.map",
+    "face_tracking_model.zbin": "/react-three-example-image-tracking-gltf-animation/482727c0e7dd40d73f5aae47f238ad61.zbin",
+    "face_mesh_face_model.zbin": "/react-three-example-image-tracking-gltf-animation/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "face_mesh_full_head_simplified_model.zbin": "/react-three-example-image-tracking-gltf-animation/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
+    "index.html": "/react-three-example-image-tracking-gltf-animation/index.html",
+    "static/css/main.e7a77bd0.chunk.css.map": "/react-three-example-image-tracking-gltf-animation/static/css/main.e7a77bd0.chunk.css.map",
+    "static/js/2.3ebfa067.chunk.js.LICENSE.txt": "/react-three-example-image-tracking-gltf-animation/static/js/2.3ebfa067.chunk.js.LICENSE.txt",
+    "static/js/worker.1d5541fe.worker.js": "/react-three-example-image-tracking-gltf-animation/static/js/worker.1d5541fe.worker.js",
+    "static/js/worker.1d5541fe.worker.js.map": "/react-three-example-image-tracking-gltf-animation/static/js/worker.1d5541fe.worker.js.map",
+    "static/media/example-tracking-image.775f3d2f.zpt": "/react-three-example-image-tracking-gltf-animation/static/media/example-tracking-image.775f3d2f.zpt",
+    "static/media/waving.2a60fd73.glb": "/react-three-example-image-tracking-gltf-animation/static/media/waving.2a60fd73.glb",
+    "zcv/zcv.wasm": "/react-three-example-image-tracking-gltf-animation/zcv/zcv.wasm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a88b6be.js",
+    "static/js/2.3ebfa067.chunk.js",
+    "static/css/main.e7a77bd0.chunk.css",
+    "static/js/main.74429ef5.chunk.js"
+  ]
+}
